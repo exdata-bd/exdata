@@ -7,13 +7,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home| স্বাগতম
+        text: Welcome| স্বাগতম
       - href: vision.qmd
         text: Vision| আমাদের লক্ষ্য
       - href: service.qmd
         text: Services| সেবা
-      - href: contact.qmd
-        text: Contact| যোগাযোগ
       
 
   page-footer: 

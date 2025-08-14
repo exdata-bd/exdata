@@ -3,39 +3,28 @@ project:
   output-dir: docs
 
 website:
-  title: "Experiment Hub"
+  title: "EXDATA"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Welcome| স্বাগতম
       - href: vision.qmd
-        text: Vision
-      - href: about.qmd
-        text: Services
-      - href: news.qmd  
-        text: Events
-      - href: people/index.qmd
-        text: People
-      - href: research/index.qmd
-        text: Research
-      - href: publications/index.qmd
-        text: Publications
-      - href: contact.qmd
-        text: Contact
+        text: Vision| আমাদের লক্ষ্য
+      - href: service.qmd
+        text: Services| সেবা
+      
+
   page-footer: 
-    left: "Copyright 2025, Experiment Hub" 
-    right: 
-      - icon: github
-        href: https://github.com/
-      - icon: twitter 
-        href: https://twitter.com/ 
+    left: "Copyright 2025, EXDATA" 
+
 format:
   html:
-    theme: journal
+    theme: flatly
     css: styles.css
     toc: true
-    fontsize: 1.1em
-    linestretch: 1.7
+    mainfont: Times New Roman
+    fontsize: 1.0em
+    linestretch: 1.1
     embed-resources: true
     grid:
       sidebar-width: 300px
