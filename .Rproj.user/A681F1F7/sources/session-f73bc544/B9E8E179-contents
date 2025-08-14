@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "EXDATA"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home| স্বাগতম
+      - href: vision.qmd
+        text: Vision| আমাদের লক্ষ্য
+      - href: service.qmd
+        text: Services| সেবা
+      - href: contact.qmd
+        text: Contact| যোগাযোগ
+      
+
+  page-footer: 
+    left: "Copyright 2025, EXDATA" 
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+    mainfont: Times New Roman
+    fontsize: 1.0em
+    linestretch: 1.1
+    embed-resources: true
+    grid:
+      sidebar-width: 300px
+      body-width: 900px
+      margin-width: 300px
+      gutter-width: 1.5rem
+
+editor: visual
+

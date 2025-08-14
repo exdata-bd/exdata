@@ -1,0 +1,31 @@
+{
+    "id": "7E7E47A0",
+    "path": "~/Library/CloudStorage/Dropbox/basics/ex_data/contact.qmd",
+    "project_path": "contact.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1755125958482.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "59:0",
+        "cursorPosition": "2,11",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1755131464,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1755131464802,
+    "read_only": false,
+    "read_only_alternatives": []
+}

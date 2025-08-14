@@ -1,0 +1,161 @@
+{
+  "listingMap": {
+    "news.qmd": [
+      "news"
+    ],
+    "people/chalifour-matthieu/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/guo-xiaofei/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/ext-lee-stephen/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/smith-kevin/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/bhattacharya-aniruddha/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/west-claire/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/sanchez-michael/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/hu-zhongwei/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/cherqui-charles/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/rossi-andrew/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/quillin-steven/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/qian-zhaoxia/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/beutler-elliot/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/goldwyn-harrison/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/kong-xiang-tian/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/index.qmd": [
+      "B3049D40"
+    ],
+    "people/busche-jacob/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/bigelow-nicholas/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/khorasani-siamak/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/montoni-nicholas/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/nixon-austin/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/bourgeois-marc/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/moser-kevin/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/thakkar-niket/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/anyanwu-praise/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/ext-link-stephan/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/ext-willets-katherine/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/ext-reinhardt-phil/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "people/masiello-david/index.qmd": [
+      "../../../publications/**/*.qmd",
+      "!../../../publications/_template/"
+    ],
+    "publications/index.qmd": [
+      "../publications/**/*.qmd"
+    ],
+    "research/index.qmd": [
+      "B3049D40"
+    ],
+    "research/photothermal_spectroscopy_and_microscopy/index.qmd": [
+      "../../publications/**/*.qmd",
+      "!../../publications/_template/"
+    ],
+    "research/fast_electron_nano-spectroscopy/index.qmd": [
+      "../../publications/**/*.qmd",
+      "!../../publications/_template/"
+    ],
+    "research/nanophotonics-quantum_optics/index.qmd": [
+      "../../publications/**/*.qmd",
+      "!../../publications/_template/"
+    ],
+    "X/research/photothermal_spectroscopy_and_microscopy/index.qmd": [
+      "../../publications/**/*.qmd",
+      "!../../publications/_template/"
+    ],
+    "X/research/fast_electron_nano-spectroscopy/index.qmd": [
+      "../../publications/**/*.qmd",
+      "!../../publications/_template/"
+    ],
+    "X/research/index.qmd": [
+      "B3049D40"
+    ],
+    "X/research/nanophotonics-quantum_optics/index.qmd": [
+      "../../publications/**/*.qmd",
+      "!../../publications/_template/"
+    ],
+    "X/publications/index.qmd": [
+      "../publications/**/*.qmd"
+    ],
+    "X/news.qmd": [
+      "news"
+    ]
+  }
+}

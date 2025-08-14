@@ -1,0 +1,563 @@
+{
+  "index.qmd": {
+    "index.html": "15ee575a"
+  },
+  "vision.qmd": {
+    "vision.html": "f31f21d6"
+  },
+  "about.qmd": {
+    "about.html": "6e21041e"
+  },
+  "news.qmd": {
+    "news.html": "4d810548"
+  },
+  "news/2024-05-14-noaa-edmw/index.qmd": {
+    "index.html": "0d63811b"
+  },
+  "news/2024-04-03-nasa-champions/index.qmd": {
+    "index.html": "7ae7f285"
+  },
+  "news/2024-02-09-white-house-factsheet-openscapes/index.qmd": {
+    "index.html": "eefe8d55"
+  },
+  "news/2024-12-09-agu-fall/index.qmd": {
+    "index.html": "1165fbb8"
+  },
+  "news/2023-03-16-esip-winter-2023/index.qmd": {
+    "index.html": "772c6b71"
+  },
+  "news/2024-09-10-nasa-pi-plenary/index.qmd": {
+    "index.html": "ad0fedc5"
+  },
+  "news/2023-12-10-agu-fall-meeting/index.qmd": {
+    "index.html": "51a7330c"
+  },
+  "news/2024-09-26-openscapes-whitehouse/index.qmd": {
+    "index.html": "015726f1"
+  },
+  "news/2023-08-01-nasa-champions/index.qmd": {
+    "index.html": "38b73ef3"
+  },
+  "news/2024-10-03-openscapes-recognized-white-house/index.qmd": {
+    "index.html": "57544228"
+  },
+  "news/2024-02-28-earthdata-webinar/index.qmd": {
+    "index.html": "4464f52b"
+  },
+  "news/2024-09-17-news-sep-2024/index.qmd": {
+    "index.html": "687a67e1"
+  },
+  "news/2022-05-12-nasa-2022-champions/index.qmd": {
+    "index.html": "b37efabd"
+  },
+  "news/2023-05-17-mentor-coach/index.qmd": {
+    "index.html": "c0cb86d1"
+  },
+  "news/2024-02-28-github-community-call/index.qmd": {
+    "index.html": "aeabfaa8"
+  },
+  "news/2024-08-30-esip-summer-2024/index.qmd": {
+    "index.html": "33765bc8"
+  },
+  "news/2023-12-08-coiled-community-call/index.qmd": {
+    "index.html": "c4758e9f"
+  },
+  "news/2024-04-04-nasa-earthdata-aaron-friesz/index.qmd": {
+    "index.html": "fabc3d11"
+  },
+  "news/2024-02-20-github-calendaring/index.qmd": {
+    "index.html": "754ea3dd"
+  },
+  "news/2024-07-18-openscapes-update/index.qmd": {
+    "index.html": "48aac26e"
+  },
+  "news/2025-01-09-openscapes.cloud/index.qmd": {
+    "index.html": "f9c25db3"
+  },
+  "news/2024-01-18-agu-talk-2023/index.qmd": {
+    "index.html": "8c591264"
+  },
+  "news/2024-02-26-esds-tech-spotlight/index.qmd": {
+    "index.html": "555f1ebb"
+  },
+  "news/2024-06-06-editorial-published/index.qmd": {
+    "index.html": "0ac64242"
+  },
+  "news/2024-02-15-nasa-openscapes-talking-points/index.qmd": {
+    "index.html": "b13af433"
+  },
+  "news/2023-10-13-nasa-jupyterhub-coiled/index.qmd": {
+    "index.html": "c62b637e"
+  },
+  "news/2024-07-24-2024-nasa-champions-cohort/index.qmd": {
+    "index.html": "c404039e"
+  },
+  "news/2024-07-22-aronne-merrelli-fledging-parallelized-science-in-the-cloud/index.qmd": {
+    "index.html": "416b401b"
+  },
+  "news/2024-07-09-2i2c-shared-password/index.qmd": {
+    "index.html": "48e64e0e"
+  },
+  "news/2023-02-21-news-february-2023/index.qmd": {
+    "index.html": "4aaedc5c"
+  },
+  "news/2022-12-31-previous-news/index.qmd": {
+    "index.html": "2b4f157a"
+  },
+  "news/2023-05-11-pathway-cloud-computing/index.qmd": {
+    "index.html": "74d65f79"
+  },
+  "news/2024-03-12-nasa-earthdata-webinar/index.qmd": {
+    "index.html": "e60fd6df"
+  },
+  "news/2023-05-31-zenodo-community/index.qmd": {
+    "index.html": "ca38897d"
+  },
+  "news/2023-10-17-matlab-on-openscapes/index.qmd": {
+    "index.html": "2b4cf610"
+  },
+  "news/2024-07-16-swot-workshop/index.qmd": {
+    "index.html": "901640a2"
+  },
+  "news/2024-07-23-esip-summer-2024/index.qmd": {
+    "index.html": "9052f5c2"
+  },
+  "news/2024-03-14-emit-methane/index.qmd": {
+    "index.html": "65f5be03"
+  },
+  "news/2024-03-04-earthaccess-tech-spotlight/index.qmd": {
+    "index.html": "cfb00ed6"
+  },
+  "news/2023-12-07-engaging-with-a-cross-nasa-subcommunity/index.qmd": {
+    "index.html": "9a822084"
+  },
+  "news/2023-11-07-coiled-openscapes/index.qmd": {
+    "index.html": "cf5a7636"
+  },
+  "people/chalifour-matthieu/index.qmd": {
+    "index.html": "c45f546a"
+  },
+  "people/guo-xiaofei/index.qmd": {
+    "index.html": "b1090753"
+  },
+  "people/ext-lee-stephen/index.qmd": {
+    "index.html": "1f339c17"
+  },
+  "people/smith-kevin/index.qmd": {
+    "index.html": "75d5d32f"
+  },
+  "people/bhattacharya-aniruddha/index.qmd": {
+    "index.html": "35d7146e"
+  },
+  "people/west-claire/index.qmd": {
+    "index.html": "2e30e1cb"
+  },
+  "people/sanchez-michael/index.qmd": {
+    "index.html": "31c2504e"
+  },
+  "people/hu-zhongwei/index.qmd": {
+    "index.html": "12c36352"
+  },
+  "people/cherqui-charles/index.qmd": {
+    "index.html": "aaec05cf"
+  },
+  "people/rossi-andrew/index.qmd": {
+    "index.html": "9a27a7e9"
+  },
+  "people/quillin-steven/index.qmd": {
+    "index.html": "c6580628"
+  },
+  "people/qian-zhaoxia/index.qmd": {
+    "index.html": "f5bcf5f9"
+  },
+  "people/beutler-elliot/index.qmd": {
+    "index.html": "3895ffb4"
+  },
+  "people/goldwyn-harrison/index.qmd": {
+    "index.html": "064e8944"
+  },
+  "people/kong-xiang-tian/index.qmd": {
+    "index.html": "36157f74"
+  },
+  "people/index.qmd": {
+    "index.html": "80f22221"
+  },
+  "people/busche-jacob/index.qmd": {
+    "index.html": "8be3069e"
+  },
+  "people/bigelow-nicholas/index.qmd": {
+    "index.html": "1cdfd2be"
+  },
+  "people/khorasani-siamak/index.qmd": {
+    "index.html": "2d5a1fd4"
+  },
+  "people/montoni-nicholas/index.qmd": {
+    "index.html": "45ad612a"
+  },
+  "people/nixon-austin/index.qmd": {
+    "index.html": "ea8ec7c0"
+  },
+  "people/bourgeois-marc/index.qmd": {
+    "index.html": "4ea313eb"
+  },
+  "people/moser-kevin/index.qmd": {
+    "index.html": "3af16b43"
+  },
+  "people/thakkar-niket/index.qmd": {
+    "index.html": "ca530766"
+  },
+  "people/anyanwu-praise/index.qmd": {
+    "index.html": "7c324fad"
+  },
+  "people/ext-link-stephan/index.qmd": {
+    "index.html": "68827ee4"
+  },
+  "people/ext-willets-katherine/index.qmd": {
+    "index.html": "defc1116"
+  },
+  "people/ext-reinhardt-phil/index.qmd": {
+    "index.html": "ca91df56"
+  },
+  "people/masiello-david/index.qmd": {
+    "index.html": "7d99aab2"
+  },
+  "publications/index.qmd": {
+    "index.html": "edb5dc61"
+  },
+  "publications/2012_014_Characterization_of_/index.qmd": {
+    "index.html": "6cc3c286"
+  },
+  "publications/2012_017_Super-Resolution_Ima/index.qmd": {
+    "index.html": "24aae44b"
+  },
+  "publications/2004_002_On_the_Canonical_For/index.qmd": {
+    "index.html": "342ef201"
+  },
+  "publications/2019_043_Nanoscale_probing_of/index.qmd": {
+    "index.html": "e4438d57"
+  },
+  "publications/2017_036_Noninvasive_Cathodol/index.qmd": {
+    "index.html": "86d866df"
+  },
+  "publications/2007_006_Time-dependent_quant/index.qmd": {
+    "index.html": "e78632fa"
+  },
+  "publications/2021_068_spectroscopy_and_microscopy/index.qmd": {
+    "index.html": "b18f3b7d"
+  },
+  "publications/2022_074_visualizing_electric/index.qmd": {
+    "index.html": "fdb6db01"
+  },
+  "publications/2018_038_Introduction_Plasmon/index.qmd": {
+    "index.html": "c4e71762"
+  },
+  "publications/2023_079_Nanoscale_characterization/index.qmd": {
+    "index.html": "036304b4"
+  },
+  "publications/2022_076_polarization_resolved/index.qmd": {
+    "index.html": "4a1f5bd8"
+  },
+  "publications/2016_028_Characterizing_Local/index.qmd": {
+    "index.html": "ffa33d2d"
+  },
+  "publications/2009_009_Surface-Enhanced_Ram/index.qmd": {
+    "index.html": "b56d8328"
+  },
+  "publications/2018_040_Multipolar_Nanocube_/index.qmd": {
+    "index.html": "89ef2d38"
+  },
+  "publications/2019_051_Focused_Electron_Bea/index.qmd": {
+    "index.html": "0653e8ac"
+  },
+  "publications/2015_027_Spatially_mapping_en/index.qmd": {
+    "index.html": "7ce93c58"
+  },
+  "publications/2005_003_Dynamics_of_an_atomi/index.qmd": {
+    "index.html": "492d39f3"
+  },
+  "publications/2011_013_Spatial,_Spectral,_a/index.qmd": {
+    "index.html": "dc56fd78"
+  },
+  "publications/2013_019_Signatures_of_Fano_I/index.qmd": {
+    "index.html": "551d63ec"
+  },
+  "publications/2021_069_imaging_infrared_plasmon/index.qmd": {
+    "index.html": "df9990f7"
+  },
+  "publications/2014_022_Multiscale_theory_an/index.qmd": {
+    "index.html": "6a604cdd"
+  },
+  "publications/2023_082_a_composite_electrodynamic/index.qmd": {
+    "index.html": "2fcd440c"
+  },
+  "publications/2012_015_Single-Molecule_Surf/index.qmd": {
+    "index.html": "3e2c3c16"
+  },
+  "publications/2019_050_Direct_Observation_o/index.qmd": {
+    "index.html": "2dacacb9"
+  },
+  "publications/2024_087_inelastic_scattering/index.qmd": {
+    "index.html": "920fb89d"
+  },
+  "publications/2020_057_Electron_Beam_Infrar/index.qmd": {
+    "index.html": "beeabc0e"
+  },
+  "publications/2020_056_Near_field_excited_s/index.qmd": {
+    "index.html": "37ef6b73"
+  },
+  "publications/2024_085_localizing_low-grade/index.qmd": {
+    "index.html": "f9aaa274"
+  },
+  "publications/2021_064_wavelength-dependent-photothermal/index.qmd": {
+    "index.html": "11d0d84e"
+  },
+  "publications/2005_004_Multiconfigurational/index.qmd": {
+    "index.html": "630601c6"
+  },
+  "publications/2020_058_Plasmon_hybridization/index.qmd": {
+    "index.html": "d909c6b4"
+  },
+  "publications/2014_024_Thermal_Signatures_o/index.qmd": {
+    "index.html": "bd51df44"
+  },
+  "publications/2000_001_Dispersion_analysis_/index.qmd": {
+    "index.html": "76f578ae"
+  },
+  "publications/2019_044_Symmetry-Broken_Many/index.qmd": {
+    "index.html": "190ee3f0"
+  },
+  "publications/2016_033_Optical_microresonat/index.qmd": {
+    "index.html": "dd81566d"
+  },
+  "publications/2016_029_Comment_on_HgS_and_H/index.qmd": {
+    "index.html": "1483bf67"
+  },
+  "publications/2020_053_Far-field_midinfrare/index.qmd": {
+    "index.html": "572c84d8"
+  },
+  "publications/2024_090_strategy_for_direct/index.qmd": {
+    "index.html": "0e97d033"
+  },
+  "publications/2022_073_nanoscale_mapping/index.qmd": {
+    "index.html": "eb701602"
+  },
+  "publications/2017_037_Sculpting_Fano_Reson/index.qmd": {
+    "index.html": "09e6fb2e"
+  },
+  "publications/2016_034_STEM_EELS_Imaging_of/index.qmd": {
+    "index.html": "60191024"
+  },
+  "publications/2019_048_Rotation_of_Single-M/index.qmd": {
+    "index.html": "5fb47ffc"
+  },
+  "publications/2019_047_Active_Far-Field_Con/index.qmd": {
+    "index.html": "337a504f"
+  },
+  "publications/2021_066_Exact_k-body_represe/index.qmd": {
+    "index.html": "6bff6e71"
+  },
+  "publications/2024_086_chiral_optical/index.qmd": {
+    "index.html": "cae4d20f"
+  },
+  "publications/2018_042_Plasmonic_Landau_dam/index.qmd": {
+    "index.html": "0f044901"
+  },
+  "publications/2019_045_Tribute_to_William_P/index.qmd": {
+    "index.html": "2f9007cd"
+  },
+  "publications/2021_067_lattice_kerker/index.qmd": {
+    "index.html": "77dabce7"
+  },
+  "publications/2014_023_Resonance-Rayleigh_s/index.qmd": {
+    "index.html": "965f6c13"
+  },
+  "publications/2021_071_model-based_insight/index.qmd": {
+    "index.html": "3ee3277a"
+  },
+  "publications/2019_049_Continuous_Wave_Reso/index.qmd": {
+    "index.html": "6a6adab5"
+  },
+  "publications/2020_059_Intermolecular_hydrogen/index.qmd": {
+    "index.html": "bd6f8f74"
+  },
+  "publications/2016_030_Electron_Energy_Loss/index.qmd": {
+    "index.html": "ff79ede2"
+  },
+  "publications/2023_084_spectroscopy_in_nanoscopic/index.qmd": {
+    "index.html": "04482167"
+  },
+  "publications/2024_088_probing_the_polarization/index.qmd": {
+    "index.html": "5a5c1a39"
+  },
+  "publications/2021_063_infrared-surface-phonon-nanospectroscopy/index.qmd": {
+    "index.html": "4c6cf062"
+  },
+  "publications/2020_055_Active_Tuning_of_Hyb/index.qmd": {
+    "index.html": "37ede187"
+  },
+  "publications/2010_011_On_the_linear_respon/index.qmd": {
+    "index.html": "a7ddc28b"
+  },
+  "publications/2021_070_toward_quantitative_nanothermometry/index.qmd": {
+    "index.html": "9255dc69"
+  },
+  "publications/2022_077_active_control_of_plasmonic-photonic/index.qmd": {
+    "index.html": "4519dce1"
+  },
+  "publications/2021_062_coupled-dipole-modeling/index.qmd": {
+    "index.html": "0f8199e4"
+  },
+  "publications/2020_052_Elucidating_Energy_P/index.qmd": {
+    "index.html": "ae960361"
+  },
+  "publications/2015_025_Examining_Substrate-/index.qmd": {
+    "index.html": "1b09ff98"
+  },
+  "publications/2018_041_Tunable_Spectral_Ord/index.qmd": {
+    "index.html": "837a668c"
+  },
+  "publications/2021_061_polarization-out-of-the-vortex/index.qmd": {
+    "index.html": "a20ae1c9"
+  },
+  "publications/2024_089_resonance_energy_transfer/index.qmd": {
+    "index.html": "e50e6df3"
+  },
+  "publications/2014_020_Charge-Tunable_Quant/index.qmd": {
+    "index.html": "50ac7ccc"
+  },
+  "publications/2018_039_Mislocalization_in_P/index.qmd": {
+    "index.html": "cf8b286a"
+  },
+  "publications/2015_026_Quantum_Beats_from_E/index.qmd": {
+    "index.html": "a2f1e5b6"
+  },
+  "publications/2022_072_nanometer-scale/index.qmd": {
+    "index.html": "83da50fc"
+  },
+  "publications/2008_007_Many-body_theory_of_/index.qmd": {
+    "index.html": "ade12344"
+  },
+  "publications/2005_005_On_the_Canonical_For/index.qmd": {
+    "index.html": "2a28d0a8"
+  },
+  "publications/2014_021_Combined_Tight-Bindi/index.qmd": {
+    "index.html": "1bf96ad4"
+  },
+  "publications/2021_065_probing-nanoparticle-substrate/index.qmd": {
+    "index.html": "79dd75cb"
+  },
+  "publications/2016_031_Imaging_Energy_Trans/index.qmd": {
+    "index.html": "cb5031cc"
+  },
+  "publications/2022_078_near-field_enhancement_of_optical/index.qmd": {
+    "index.html": "e575b5d8"
+  },
+  "publications/2019_046_Plasmon_Heating_Prom/index.qmd": {
+    "index.html": "5eadd16a"
+  },
+  "publications/2010_010_Cooperative_near-fie/index.qmd": {
+    "index.html": "85799fd7"
+  },
+  "publications/2012_016_Submicrosecond_Time_/index.qmd": {
+    "index.html": "a6b57947"
+  },
+  "publications/2023_081_infrared_near-field/index.qmd": {
+    "index.html": "f3dd9526"
+  },
+  "publications/2017_035_Dynamic_Optical_Swit/index.qmd": {
+    "index.html": "bda10f2e"
+  },
+  "publications/2023_080_Nonlinear_effects/index.qmd": {
+    "index.html": "ebc18057"
+  },
+  "publications/2016_032_Imaging_Plasmon_Hybr/index.qmd": {
+    "index.html": "d20426b5"
+  },
+  "publications/2020_054_Infrared_plasmonics_/index.qmd": {
+    "index.html": "007b972d"
+  },
+  "publications/2023_083_optical_polarization_analogs/index.qmd": {
+    "index.html": "60f3bb65"
+  },
+  "publications/2022_075_optical_control_over/index.qmd": {
+    "index.html": "dc715f45"
+  },
+  "publications/2008_008_Probing_the_Structur/index.qmd": {
+    "index.html": "c667ecf1"
+  },
+  "publications/2013_018_Molecular-Electronic/index.qmd": {
+    "index.html": "2f6ce80e"
+  },
+  "publications/2021_060_High_Spatial_and_Energy/index.qmd": {
+    "index.html": "4956d541"
+  },
+  "publications/2011_012_Chapter_6_Computatio/index.qmd": {
+    "index.html": "64f52ac7"
+  },
+  "research/index.qmd": {
+    "index.html": "c19879e5"
+  },
+  "research/photothermal_spectroscopy_and_microscopy/index.qmd": {
+    "index.html": "a2ae15e3"
+  },
+  "research/fast_electron_nano-spectroscopy/index.qmd": {
+    "index.html": "8efd07d6"
+  },
+  "research/nanophotonics-quantum_optics/index.qmd": {
+    "index.html": "73bb77d9"
+  },
+  "contact.qmd": {
+    "contact.html": "89a50d28"
+  },
+  "X/research/photothermal_spectroscopy_and_microscopy/index.qmd": {
+    "index.html": "f5f99380"
+  },
+  "X/research/fast_electron_nano-spectroscopy/index.qmd": {
+    "index.html": "dc9cd3c3"
+  },
+  "X/research/index.qmd": {
+    "index.html": "55baea25"
+  },
+  "X/research/nanophotonics-quantum_optics/index.qmd": {
+    "index.html": "40d51246"
+  },
+  "X/publications/2024_087_inelastic_scattering/index.qmd": {
+    "index.html": "bed6b319"
+  },
+  "X/publications/2024_090_strategy_for_direct/index.qmd": {
+    "index.html": "ab5caaa1"
+  },
+  "X/publications/2024_086_chiral_optical/index.qmd": {
+    "index.html": "b2c0c71a"
+  },
+  "X/publications/index.qmd": {
+    "index.html": "02245be0"
+  },
+  "X/publications/2024_088_probing_the_polarization/index.qmd": {
+    "index.html": "33537efb"
+  },
+  "X/publications/2024_089_resonance_energy_transfer/index.qmd": {
+    "index.html": "db17a9ee"
+  },
+  "X/news.qmd": {
+    "news.html": "a91f5bfd"
+  },
+  "X/news/2024-12-09-agu-fall/index.qmd": {
+    "index.html": "59147a98"
+  },
+  "X/news/2024-09-26-openscapes-whitehouse/index.qmd": {
+    "index.html": "ac3cbacf"
+  },
+  "X/news/2024-10-03-openscapes-recognized-white-house/index.qmd": {
+    "index.html": "e70b3115"
+  },
+  "X/news/2024-09-17-news-sep-2024/index.qmd": {
+    "index.html": "8bd08d6b"
+  },
+  "X/news/2025-01-09-openscapes.cloud/index.qmd": {
+    "index.html": "dde0b9cd"
+  },
+  "service.qmd": {
+    "service.html": "8a01dea4"
+  }
+}

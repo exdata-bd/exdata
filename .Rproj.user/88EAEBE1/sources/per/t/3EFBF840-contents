@@ -1,0 +1,22 @@
+![](images/logo.jpg){width="119"}
+
+# Contact
+
+::: {#contact}
+#### Email   data.ex.econ\@gmail.com
+
+#### Phone   206-543-5579
+
+#### Map Location   Department of Chemistry, CHB 304F, Seattle, WA 98195-1700
+:::
+
+```{r}
+#| echo: false
+#| label: make map
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=-122.30830, lat=47.65297)
+```
+
+<br>

@@ -1,0 +1,28 @@
+---
+title: "Moinul Islam"
+about: 
+  id: contact
+  template: solana
+  image-shape: round
+  image: people/masiello-david/avatar.png
+# page-layout: full
+---
+
+::: {#contact}
+#### Email   masiello\@uw.edu
+
+#### Phone   206-543-5579
+
+#### Map Location   Department of Chemistry, CHB 304F, Seattle, WA 98195-1700
+:::
+
+```{r}
+#| echo: false
+#| label: make map
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=-122.30830, lat=47.65297)
+```
+
+<br>
