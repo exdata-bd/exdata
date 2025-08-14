@@ -12,6 +12,8 @@ website:
         text: Vision| আমাদের লক্ষ্য
       - href: service.qmd
         text: Services| সেবা
+      - href: otree.qmd
+        text: oTree platform| oTree প্ল্যাটফর্ম
       
 
   page-footer: 

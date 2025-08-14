@@ -1,14 +1,14 @@
-![](images/logo.jpg){width="119"}
+![](images/logo.jpg){width="120"}
 
 # Welcome\| স্বাগতম
 
-At EXDATA, we specialize in providing tailored support for experimental data collection. Whether you’re an academic researcher, policymaker, or part of a private institution, we offer the tools and expertise you need to design, execute, and analyze economic experiments with precision and efficiency.
+At EXDATA, we specialize in providing tailored support for data collection. Whether you’re an academic researcher, policymaker, or part of a private institution, we offer the tools and expertise you need to design, execute, and analyze survey as well as experiments with precision and efficiency.
 
 EXDATA-তে, আমরা পরীক্ষামূলক ডেটা সংগ্রহে আপনার জন্য কাস্টমাইজড সহায়তা প্রদান করি। আপনি একজন একাডেমিক গবেষক, নীতিনির্ধারক, বা বেসরকারি প্রতিষ্ঠানের অংশ যেই হোন না কেন—আমরা আপনাকে প্রয়োজনীয় সরঞ্জাম এবং দক্ষতা প্রদান করি যাতে আপনি সঠিকতা ও দক্ষতার সাথে অর্থনৈতিক পরীক্ষা ডিজাইন, পরিচালনা এবং বিশ্লেষণ করতে পারেন।
 
 ### What we do\| আমরা যা করি
 
--   Experiment design: Craft robust and innovative experiment structures that yield meaningful insights.
+-   Survey and experiment design: Craft robust and innovative experiment structures that yield meaningful insights.
 
 -   Participant recruitment: Access diverse and reliable participant pools to ensure valid results.
 
