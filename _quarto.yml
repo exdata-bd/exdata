@@ -12,8 +12,8 @@ website:
         text: Vision| আমাদের লক্ষ্য
       - href: service.qmd
         text: Services| সেবা
-      - href: otree.qmd
-        text: oTree platform| oTree প্ল্যাটফর্ম
+      - href: platform.qmd
+        text: Platform| প্ল্যাটফর্ম
       
 
   page-footer: 
@@ -21,7 +21,7 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme: quartz
     css: styles.css
     toc: true
     #mainfont: Times New Roman

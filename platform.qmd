@@ -1,0 +1,29 @@
+![](images/logo.jpg){width="120"}
+
+# Platform\| প্ল্যাটফর্ম
+
+## oTree
+
+oTree is a Python framework for multi-player decision games, behavioral experiments, and surveys.
+
+oTree হল একটি Python ফ্রেমওয়ার্ক যা মাল্টিপ্লেয়ার ডিসিশন গেম, আচরণগত পরীক্ষা এবং সার্ভে পরিচালনার জন্য ব্যবহৃত হয়।
+
+### Use Cases\| ব্যবহার ক্ষেত্র
+
+#### 1. Economic Experiments:
+
+oTree is often used for conducting economic decision-making experiments, such as: Public goods games, dictator games, etc.
+
+oTree সাধারণত অর্থনৈতিক সিদ্ধান্ত গ্রহণের experiment পরিচালনার জন্য ব্যবহৃত হয়, যেমন: পাবলিক গুডস গেমস, ডিকটেটর গেমস ইত্যাদি।
+
+#### 2. Psychological Studies:
+
+We use oTree for Behavioral studies involving decision-making, risk aversion, or cooperation in social contexts.
+
+আমরা oTree ব্যবহার করি আচরণগত অধ্যয়নের জন্য যা সিদ্ধান্ত গ্রহণ, ঝুঁকি এড়ানো বা সামাজিক প্রেক্ষাপটে সহযোগিতাকে অন্তর্ভুক্ত করে।
+
+#### 3. Surveys with Randomized Controlled Trials (RCTs):
+
+We use oTree to combine surveys with experimental manipulations, where participants are randomly assigned to different groups to measure treatment effects.
+
+আমরা oTree ব্যবহার করি সার্ভেগুলিকে পরীক্ষামূলক প্রভাবের সঙ্গে সংযুক্ত করতে, যেখানে অংশগ্রহণকারীদের বিভিন্ন গ্রুপে র‍্যান্ডমভাবে বরাদ্দ করা হয় এবং random প্রভাব পরিমাপ করা হয়।

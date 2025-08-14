@@ -562,5 +562,8 @@
   },
   "otree.qmd": {
     "otree.html": "b1a20c8a"
+  },
+  "platform.qmd": {
+    "platform.html": "1e17dfc9"
   }
 }

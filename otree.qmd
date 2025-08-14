@@ -1,5 +1,0 @@
-![](images/logo.jpg){width="120"}
-
-# oTree platform| oTree প্ল্যাটফর্ম
-
-oTree is a Python framework for multiplayer decision games, behavioral experiments, and surveys 
