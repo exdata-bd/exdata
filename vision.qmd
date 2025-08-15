@@ -1,6 +1,6 @@
 ![](images/logo.jpg){width="120"}
 
-## Our vision: Empower evidence-based policies that benefit society
+# Our vision: Empower evidence-based policies that benefit society
 
 At EXDATA, we believe that economic experiments hold the key to unlocking a better future. By understanding human behavior, testing innovative ideas, and informing decision-making, we can create actionable insights that address today’s challenges and anticipate tomorrow’s opportunities.
 
