@@ -14,6 +14,8 @@ website:
         text: Services| সেবা
       - href: platform.qmd
         text: Platform| প্ল্যাটফর্ম
+      - href: team.qmd
+        text: Research team| গবেষণা দল
       
   page-footer: 
     left: "Copyright 2025, EXDATA" 
