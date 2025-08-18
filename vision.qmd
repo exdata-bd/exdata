@@ -2,9 +2,13 @@
 
 # Our vision: Empower evidence-based policies that benefit society
 
-At EXDATA, we believe that economic experiments hold the key to unlocking a better future. By understanding human behavior, testing innovative ideas, and informing decision-making, we can create actionable insights that address today’s challenges and anticipate tomorrow’s opportunities.
+At EXDATA, we believe that social experiments hold the key to unlocking a better future.
 
-EXDATA-তে আমরা বিশ্বাস করি যে অর্থনৈতিক এক্সপেরিমেন্ট একটি সুন্দর ভবিষ্যৎ গড়ার চাবিকাঠি। মানব আচরণ বোঝা, উদ্ভাবনী ধারণা পরীক্ষা করা এবং সিদ্ধান্ত গ্রহণে সহায়তা করার মাধ্যমে আমরা এমন কার্যকর অন্তর্দৃষ্টি তৈরি করতে পারি যা আজকের চ্যালেঞ্জ মোকাবিলা করে এবং আগামীর সম্ভাবনা অনুমান করতে সক্ষম হয়।
+EXDATA-তে আমরা বিশ্বাস করি যে সামাজিক এক্সপেরিমেন্ট একটি সুন্দর ভবিষ্যৎ গড়ার চাবিকাঠি।
+
+By understanding human behavior, testing innovative ideas, and informing decision-making, we can create actionable insights that address today’s challenges and anticipate tomorrow’s opportunities.
+
+মানব আচরণ বোঝা, উদ্ভাবনী ধারণা পরীক্ষা করা এবং সিদ্ধান্ত গ্রহণে সহায়তা করার মাধ্যমে আমরা এমন কার্যকর অন্তর্দৃষ্টি তৈরি করতে পারি যা আজকের চ্যালেঞ্জ মোকাবিলা করে এবং আগামীর সম্ভাবনা অনুমান করতে সক্ষম হয়।
 
 -   Enable governments and institutions to make informed decisions.
 
