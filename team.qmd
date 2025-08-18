@@ -2,64 +2,70 @@
 
 ### Research team\| গবেষণা দল
 
-#### Habib Rahman\| হাবিব রহমান (Cordinator\| দলনেতা)
+#### A. Project Coordinator\| দলনেতা
 
-#### 1. Md. Shihab Uddin\| মোঃ শিহাব উদ্দিন
+##### 1. Habib Rahman\| হাবিব রহমান 
 
-#### 2. Md. Rubel Hossain\| মোঃ রুবেল হোসেন
+#### B. Data collector
 
-#### 3. Joya Sultana\| জয়া সুলতানা
+##### 1. Md. Shihab Uddin\| মোঃ শিহাব উদ্দিন
 
-#### 4. Lovely Akter\| লাভলী আক্তার
+##### 2. Md. Rubel Hossain\| মোঃ রুবেল হোসেন
 
-#### 5. Rifat Rahman\| রিফাত রহমান
+##### 3. Joya Sultana\| জয়া সুলতানা
 
-#### 6. Sharmeen Poly\| শারমিন পলি
+##### 4. Lovely Akter\| লাভলী আক্তার
 
-#### 7. Saidul Islam\| সাইদুল ইসলাম
+##### 5. Rifat Rahman\| রিফাত রহমান
 
-#### 8. Nishat Mouri\| নিশাত মৌরি
+##### 6. Sharmeen Poly\| শারমিন পলি
 
-#### 9. Md. Limon Hossain\| মোঃ লিমন হোসেন
+##### 7. Saidul Islam\| সাইদুল ইসলাম
 
-#### 10. Tamanna Bristy\| তামান্না বৃষ্টি
+##### 8. Nishat Mouri\| নিশাত মৌরি
 
-#### 11. Md. Arif Hossain\| মোঃ আরিফ হোসেন
+##### 9. Md. Limon Hossain\| মোঃ লিমন হোসেন
 
-#### 12. Mukta Akter\| মুক্তা আক্তার
+##### 10. Tamanna Bristy\| তামান্না বৃষ্টি
 
-#### 13. Sharmin Tania\| শারমিন তানিয়া
+##### 11. Md. Arif Hossain\| মোঃ আরিফ হোসেন
 
-#### 14. Masudur Rahman\| মাসুদুর রহমান
+##### 12. Mukta Akter\| মুক্তা আক্তার
 
-#### 15. Shanta Akter\| শান্তা আক্তার
+##### 13. Sharmin Tania\| শারমিন তানিয়া
 
-#### 16. Md. Iqbal Hossain\| মোঃ ইকবাল হোসেন
+##### 14. Masudur Rahman\| মাসুদুর রহমান
 
-#### 17. Mehzabin Mim\| মেহজাবিন মিম
+##### 15. Shanta Akter\| শান্তা আক্তার
 
-#### 18. Mahmud Shuvo\| মাহমুদ শুভ
+##### 16. Md. Iqbal Hossain\| মোঃ ইকবাল হোসেন
 
-#### 19. Nipa Akter\| নিপা আক্তার
+##### 17. Mehzabin Mim\| মেহজাবিন মিম
 
-#### 20. Md. Pavel Hossain\| মোঃ পাভেল হোসেন
+##### 18. Mahmud Shuvo\| মাহমুদ শুভ
 
-#### 21. Md. Farhan Hossain\| মোঃ ফারহান হোসেন
+##### 19. Nipa Akter\| নিপা আক্তার
 
-#### 22. Nusrat Jahan\| নুসরাত জাহান
+##### 20. Md. Pavel Hossain\| মোঃ পাভেল হোসেন
 
-#### 23. Tanvir Ahmed\| তানভীর আহমেদ
+#### C. Data organizer
 
-#### 24. Sadia Afrin\| সাদিয়া আফরিন
+##### 21. Md. Farhan Hossain\| মোঃ ফারহান হোসেন
 
-#### 25. Md. Rakib Hasan\| মোঃ রাকিব হাসান
+##### 22. Nusrat Jahan\| নুসরাত জাহান
 
-#### 26. Farzana Hossain\| ফারজানা হোসেন
+##### 23. Tanvir Ahmed\| তানভীর আহমেদ
 
-#### 27. Asif Mahmud\| আসিফ মাহমুদ
+##### 24. Sadia Afrin\| সাদিয়া আফরিন
 
-#### 28. Roksana Akter\| রোকসানা আক্তার
+##### 25. Md. Rakib Hasan\| মোঃ রাকিব হাসান
 
-#### 29. Jubayer Rahman\| জুবায়ের রহমান
+##### 26. Farzana Hossain\| ফারজানা হোসেন
 
-#### 30. Tanjina Haque\| তানজিনা হক
+##### 27. Asif Mahmud\| আসিফ মাহমুদ
+
+##### 28. Roksana Akter\| রোকসানা আক্তার
+
+##### 29. Jubayer Rahman\| জুবায়ের রহমান
+
+##### 30. Tanjina Haque\| তানজিনা হক
