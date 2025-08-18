@@ -1,69 +1,65 @@
 ![](images/logo.jpg){width="120"}
 
-# Research team| গবেষণা দল
+### Research team\| গবেষণা দল
 
-## Team leader| দলনেতা
+#### Habib Rahman\| হাবিব রহমান (Cordinator\| দলনেতা)
 
-#### Habib Rahman| হাবিব রহমান
+#### 1. Md. Shihab Uddin\| মোঃ শিহাব উদ্দিন
 
-## Research Team | গবেষণা দল
+#### 2. Md. Rubel Hossain\| মোঃ রুবেল হোসেন
 
-#### 1. Md. Shihab Uddin| মোঃ শিহাব উদ্দিন
+#### 3. Joya Sultana\| জয়া সুলতানা
 
-#### 2. Md. Rubel Hossain| মোঃ রুবেল হোসেন
+#### 4. Lovely Akter\| লাভলী আক্তার
 
-#### 3. Joya Sultana| জয়া সুলতানা
+#### 5. Rifat Rahman\| রিফাত রহমান
 
-#### 4. Lovely Akter| লাভলী আক্তার
+#### 6. Sharmeen Poly\| শারমিন পলি
 
-#### 5. Rifat Rahman| রিফাত রহমান
+#### 7. Saidul Islam\| সাইদুল ইসলাম
 
-#### 6. Sharmeen Poly| শারমিন পলি
+#### 8. Nishat Mouri\| নিশাত মৌরি
 
-#### 7. Saidul Islam| সাইদুল ইসলাম
+#### 9. Md. Limon Hossain\| মোঃ লিমন হোসেন
 
-#### 8. Nishat Mouri| নিশাত মৌরি
+#### 10. Tamanna Bristy\| তামান্না বৃষ্টি
 
-#### 9. Md. Limon Hossain| মোঃ লিমন হোসেন
+#### 11. Md. Arif Hossain\| মোঃ আরিফ হোসেন
 
-#### 10. Tamanna Bristy| তামান্না বৃষ্টি
+#### 12. Mukta Akter\| মুক্তা আক্তার
 
-#### 11. Md. Arif Hossain| মোঃ আরিফ হোসেন
+#### 13. Sharmin Tania\| শারমিন তানিয়া
 
-#### 12. Mukta Akter| মুক্তা আক্তার
+#### 14. Masudur Rahman\| মাসুদুর রহমান
 
-#### 13. Sharmin Tania| শারমিন তানিয়া
+#### 15. Shanta Akter\| শান্তা আক্তার
 
-#### 14. Masudur Rahman| মাসুদুর রহমান
+#### 16. Md. Iqbal Hossain\| মোঃ ইকবাল হোসেন
 
-#### 15. Shanta Akter| শান্তা আক্তার
+#### 17. Mehzabin Mim\| মেহজাবিন মিম
 
-#### 16. Md. Iqbal Hossain| মোঃ ইকবাল হোসেন
+#### 18. Mahmud Shuvo\| মাহমুদ শুভ
 
-#### 17. Mehzabin Mim| মেহজাবিন মিম
+#### 19. Nipa Akter\| নিপা আক্তার
 
-#### 18. Mahmud Shuvo| মাহমুদ শুভ
+#### 20. Md. Pavel Hossain\| মোঃ পাভেল হোসেন
 
-#### 19. Nipa Akter| নিপা আক্তার
+#### 21. Md. Farhan Hossain\| মোঃ ফারহান হোসেন
 
-#### 20. Md. Pavel Hossain| মোঃ পাভেল হোসেন
+#### 22. Nusrat Jahan\| নুসরাত জাহান
 
-#### 21. Md. Farhan Hossain| মোঃ ফারহান হোসেন
+#### 23. Tanvir Ahmed\| তানভীর আহমেদ
 
-#### 22. Nusrat Jahan| নুসরাত জাহান
+#### 24. Sadia Afrin\| সাদিয়া আফরিন
 
-#### 23. Tanvir Ahmed| তানভীর আহমেদ
+#### 25. Md. Rakib Hasan\| মোঃ রাকিব হাসান
 
-#### 24. Sadia Afrin| সাদিয়া আফরিন
+#### 26. Farzana Hossain\| ফারজানা হোসেন
 
-#### 25. Md. Rakib Hasan| মোঃ রাকিব হাসান
+#### 27. Asif Mahmud\| আসিফ মাহমুদ
 
-#### 26. Farzana Hossain| ফারজানা হোসেন
+#### 28. Roksana Akter\| রোকসানা আক্তার
 
-#### 27. Asif Mahmud| আসিফ মাহমুদ
+#### 29. Jubayer Rahman\| জুবায়ের রহমান
 
-#### 28. Roksana Akter| রোকসানা আক্তার
-
-#### 29. Jubayer Rahman| জুবায়ের রহমান
-
-#### 30. Tanjina Haque| তানজিনা হক
+#### 30. Tanjina Haque\| তানজিনা হক
